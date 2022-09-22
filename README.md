@@ -9,7 +9,7 @@ To make an heading in html
 ´´´python
 k = 20
 print(f"Breytan k inniheldur {k}!")
-'''
+
 
 '''c++
 serial.begin(6900);
@@ -31,7 +31,10 @@ in html we use '<h3>' for heading 3.
  
  Hemisíða tækniskólans er [hér](https://www.tskoli.is)
  
- Hér er mynd
+ Hér er mynd:
+ ![Hér er mynd af skólanum]
+
+ Dálkur 1 |  Dálkur 2 |   Dálkur 3 | 
  
  
   
