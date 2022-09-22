@@ -4,9 +4,9 @@ To make an heading in html
 <h1>texti</h1>
 
 ´´´
-##heading2
+## heading2
 
-###heading3
+### heading3
 
 in html we use <h3> for heading .
  
